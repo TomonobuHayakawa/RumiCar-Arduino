@@ -1,0 +1,30 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+LEFT   KEYWORD1
+CENTER KEYWORD1
+RIGHT  KEYWORD1
+
+FREE    KEYWORD1
+REVERSE KEYWORD1
+FORWARD KEYWORD1
+BRAKE   KEYWORD1
+
+SHUT0   KEYWORD1
+SHUT1   KEYWORD1
+SHUT2   KEYWORD1
+
+AIN1    KEYWORD1
+AIN2    KEYWORD1
+BIN1    KEYWORD1
+BIN2    KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+RC_setup	KEYWORD2
+RC_steer	KEYWORD2
+RC_drive	KEYWORD2
+
